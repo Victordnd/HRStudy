@@ -11,7 +11,7 @@ namespace DesafioHackerRank
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            // Registra aqui todos os desafios que você for criando
+            
             var desafios = new Dictionary<string, IDesafio>(StringComparer.OrdinalIgnoreCase)
             {
                 ["001"] = new SolveMeFirst()
