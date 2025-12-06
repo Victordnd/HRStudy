@@ -14,8 +14,8 @@ namespace DesafioHackerRank
             
             var desafios = new Dictionary<string, IDesafio>(StringComparer.OrdinalIgnoreCase)
             {
-                ["001"] = new SolveMeFirst()
-                
+                ["001"] = new SolveMeFirst(),
+                ["002"] = new SimpleArraySum()
                
             };
 
