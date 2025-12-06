@@ -16,15 +16,14 @@ namespace DesafioHackerRank
             {
                 ["001"] = new SolveMeFirst()
                 
-                // ["003"] = new Desafio003_AlgumaCoisa(),
-                // ...
+               
             };
 
             string codigoEscolhido;
 
             if (args.Length > 0)
             {
-                // Permite rodar assim: dotnet run -- 001
+                
                 codigoEscolhido = args[0];
             }
             else
