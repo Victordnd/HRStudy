@@ -1,0 +1,14 @@
+F:\Projetos\HRStudy\DesafioHackerRank\bin\Debug\net9.0\DesafioHackerRank.exe
+F:\Projetos\HRStudy\DesafioHackerRank\bin\Debug\net9.0\DesafioHackerRank.deps.json
+F:\Projetos\HRStudy\DesafioHackerRank\bin\Debug\net9.0\DesafioHackerRank.runtimeconfig.json
+F:\Projetos\HRStudy\DesafioHackerRank\bin\Debug\net9.0\DesafioHackerRank.dll
+F:\Projetos\HRStudy\DesafioHackerRank\bin\Debug\net9.0\DesafioHackerRank.pdb
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\DesafioHackerRank.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\DesafioHackerRank.AssemblyInfoInputs.cache
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\DesafioHackerRank.AssemblyInfo.cs
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\DesafioHackerRank.csproj.CoreCompileInputs.cache
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\DesafioHackerRank.dll
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\refint\DesafioHackerRank.dll
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\DesafioHackerRank.pdb
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\DesafioHackerRank.genruntimeconfig.cache
+F:\Projetos\HRStudy\DesafioHackerRank\obj\Debug\net9.0\ref\DesafioHackerRank.dll
